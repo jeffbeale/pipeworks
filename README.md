@@ -1,4 +1,4 @@
-# pipeworks
+# Pipeworks
 A GUI configuration tool for configuring Pipewire
 
 This project is partially a tool for me to learn the QT framework in C++, and partially a tool to make it much easier for end users to configure Pipewire to their individual needs.
